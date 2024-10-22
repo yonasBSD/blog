@@ -1,6 +1,6 @@
 name: Your Blog
 tagline: Things you talk about
-# url: https://rochacbruno.github.io/make-me-a-blog
+url: https://YOURUSER.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
