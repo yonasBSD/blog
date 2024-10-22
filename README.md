@@ -8,9 +8,14 @@ This blog is generated with [marmite](https://rochacbruno.github.io/marmite/)
 
 ## Step 2
 
-Then edit the `marmite.yaml` with your own information. (IMPORTANT! change the `url:..` field to match your own repo)
+Access https://github.com/YOURUSER/REPONAME/settings/pages and set the
+pages source to **Github Actions**
 
 ## Step 3
+
+Then edit the `marmite.yaml` with your own information. (IMPORTANT! change the `url:..` field to match your own repo)
+
+## Step 4
 
 Commit and see the Github Actions building a blog for you.
 
