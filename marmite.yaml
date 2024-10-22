@@ -1,9 +1,13 @@
-name: YourBlog
+name: Your Blog
 tagline: Things you talk about
-url: https://rochacbruno.github.io/make-me-a-blog
+# url: https://rochacbruno.github.io/make-me-a-blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
   - ["Tags", "tags.html"]
   - ["Follow me", "https://mastodon.social/@YOURUSER"]
-  - ["Github", "https://github.com/rochacbruno"]
+  - ["Github", "https://github.com/rochacbruno/marmite"]
+
+
+# More options available to customize the website
+# read on https://rochacbruno.github.io/marmite/tag/customization.html
