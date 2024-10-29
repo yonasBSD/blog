@@ -1,6 +1,6 @@
-name: Your Blog
+name: yonasBSD Blog
 tagline: Things you talk about
-url: https://YOURUSER.github.io/blog
+url: https://yonasBSD.github.io/blog
 menu:
   - ["About", "about.html"]
   - ["Pages", "pages.html"]
